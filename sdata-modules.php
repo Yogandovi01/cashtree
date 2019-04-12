@@ -1,9 +1,9 @@
 <?php
 error_reporting(0);
 /**
- * @Author: M Luthfi Hisyam
+ * @Author: tri abug
  * @Date:   2017-11-06 22:54:36
- * @Last Modified by:   M Luthfi Hisyam
+ * @Last Modified by:   bugsar chanel
  * @Last Modified time: 04-12-2018 17:12:21
  */
 class Modules
